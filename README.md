@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=300&section=header&text=코딩하는%20샌즈&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=300&section=header&text=코딩하는%20샌즈&fontSize=40)
 
 <!--
 **NCSUAL/NCSUAL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
