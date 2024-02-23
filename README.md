@@ -5,7 +5,7 @@
 <br/>
 <div align="center">
   
-  [![bi-sz's GitHub stats](https://github-readme-stats.vercel.app/api?username=NCSUAL&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/NCSUAL/github-readme-stats)
+  [![NCSUAL's GitHub stats](https://github-readme-stats.vercel.app/api?username=NCSUAL&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/NCSUAL/github-readme-stats)
 </div>
 <!--
 **NCSUAL/NCSUAL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
