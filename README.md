@@ -17,11 +17,10 @@
   <img src="https://img.shields.io/badge/MqSql-4479A1?style=flat-square&logo=mysql&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" height="25"/>
-
-  [![NCSUAL's GitHub stats](https://github-readme-stats.vercel.app/api?username=NCSUAL&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/NCSUAL/github-readme-stats)
 </div>
 <div align="center">
   
+  [![NCSUAL's GitHub stats](https://github-readme-stats.vercel.app/api?username=NCSUAL&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/NCSUAL/github-readme-stats)
 </div>
 <!--
 **NCSUAL/NCSUAL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
