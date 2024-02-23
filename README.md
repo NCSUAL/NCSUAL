@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=FFFFFF&height=100&section=header&text=코딩하는%20샌즈&fontSize=70&fontColor=00A6CA)
+  ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=FFFFFF&height=100&section=header&text=코딩하는%20샌즈&fontSize=50&fontColor=00A6CA)
 </div>
 <br/>
 <div align="center">
