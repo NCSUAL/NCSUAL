@@ -13,9 +13,9 @@
   <img src="https://img.shields.io/badge/MqSql-4479A1?style=flat-square&logo=mysql&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" height="25"/>
   
-  <br/>
-  <br/>
-  <br/>
+  <br>
+  <br>
+  <br>
   
   [![NCSUAL's GitHub stats](https://github-readme-stats.vercel.app/api?username=NCSUAL&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/NCSUAL/github-readme-stats)
 </div>
