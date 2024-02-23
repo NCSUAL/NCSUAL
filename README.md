@@ -5,10 +5,11 @@
   <h3>:wave: 반갑습니다!</h3>
   <br/>
   <br/>
-  <h3>🌱 기술스택(미완성)🌱</h3>
+  <h3>🌱 기술스택(공부 중)🌱</h3>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" height="25"/>
 </div>
 <div align="center">
   
