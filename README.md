@@ -7,7 +7,7 @@
   <br/>
   <h3>🌱 기술스택(미완성)🌱</h3>
   
-  <img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white" height="50"/>
 </div>
 <div align="center">
   
