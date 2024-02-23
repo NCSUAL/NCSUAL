@@ -2,7 +2,7 @@
   
   ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=FFFFFF&height=150&section=header&text=코딩하는%20샌즈&fontSize=70&fontColor=000000&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
 
-  <h3> :wave: 반갑습니다!</h3>
+  <h3>:wave: 반갑습니다!</h3>
   <br/>
   <br/>
   <h3>🌱 기술스택 🌱</h3>
