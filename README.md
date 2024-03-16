@@ -19,13 +19,12 @@
 <br>
 <div align="center">
   
-  [![NCSUAL's GitHub stats](https://github-readme-stats.vercel.app/api?username=NCSUAL&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/NCSUAL/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ncsual)](https://solved.ac/ncsual/)
 
 </div>
-
 <div align="center">
   
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ncsual)](https://solved.ac/ncsual/)
+  [![NCSUAL's GitHub stats](https://github-readme-stats.vercel.app/api?username=NCSUAL&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/NCSUAL/github-readme-stats)
 
 </div>
 
