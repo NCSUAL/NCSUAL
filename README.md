@@ -24,7 +24,7 @@
 </div>
 <div align="center">
   
-  [![NCSUAL's GitHub stats](https://github-readme-stats.vercel.app/api?username=NCSUAL&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/NCSUAL/github-readme-stats)
+ ![ncsual's GitHub stats](https://github-readme-stats.vercel.app/api?username=NCSUAL&show_icons=true&theme=merko)
 
 </div>
 
