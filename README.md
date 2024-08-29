@@ -2,7 +2,7 @@
   <h3>:wave: 반갑습니다!</h3>
   <br>
   <br>
-  <h3>🌱 기술스택(공부 중)🌱</h3>
+  <h3>🌱 기술스택🌱</h3>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white " height="25"/>
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" height="25"/>
@@ -13,7 +13,6 @@
   <br>
   <img src="https://img.shields.io/badge/MqSql-4479A1?style=flat-square&logo=mysql&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" height="25"/>
 </div>
 <br>
 <br>
