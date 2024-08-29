@@ -3,7 +3,7 @@
   <br>
   <hr></hr>
   <br>
-  <h2>⭐ Main Stack ⭐</h2>
+  <h3>⭐ Main Stack ⭐</h3>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white " height="25"/>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" height="25"/>
   <br>
@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/MqSql-4479A1?style=flat-square&logo=mysql&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="25">
   <br><br>
-  <h2>🔶 Sub Stack 🔶</h2>
+  <h3>🔶 Sub Stack 🔶</h3>
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white" height="25"/>
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" height="25"/>
   <br><br>
@@ -26,7 +26,7 @@
 <br><br>
   
   <hr></hr>
-  <h2>🔥 PS Skill 🔥</h2>
+  <h3>🔥 PS Skill 🔥</h3>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ncsual)](https://solved.ac/ncsual/)
 </div>
