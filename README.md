@@ -1,9 +1,5 @@
 <div align="center">
   <h1>:wave: Hi ㅋ</h1>
-
-  <br></br>
-  ##
-  <hr></hr>
   <br>
   <h3>⭐ Main Stack ⭐</h3>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white " height="25"/>
@@ -25,9 +21,10 @@
       <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" height="25"/>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="25"/>
   <br>
-<br><br>
+<br>
   
-  <hr></hr>
+  ##
+  <br>
   <h3>🔥 PS Skill 🔥</h3>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ncsual)](https://solved.ac/ncsual/)
