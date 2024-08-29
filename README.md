@@ -27,6 +27,7 @@
   
   <hr></hr>
   <h3>🔥 PS Skill 🔥</h3>
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ncsual)](https://solved.ac/ncsual)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ncsual)](https://solved.ac/ncsual/)
 </div>
 
