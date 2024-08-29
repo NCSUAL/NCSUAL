@@ -1,6 +1,8 @@
 <div align="center">
-  <h3>:wave: Hi ㅋ</h3>
-  <br>
+  <h1>:wave: Hi ㅋ</h1>
+
+  <br></br>
+  ##
   <hr></hr>
   <br>
   <h3>⭐ Main Stack ⭐</h3>
