@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>:wave: Hi ㅋ</h2>
+  <h3>:wave: Hi ㅋ</h3>
   <br>
   <hr></hr>
   <br>
