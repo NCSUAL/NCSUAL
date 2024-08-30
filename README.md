@@ -23,8 +23,6 @@
   <br>
 <br>
   
-  ##
-  <br>
   <h3>🔥 PS Skill 🔥</h3>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ncsual)](https://solved.ac/ncsual/)
