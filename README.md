@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>:wave: Hi ㅋ</h1>
+  <h1>:wave: Hi</h1>
   <br>
   <h3>⭐ Main Stack ⭐</h3>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white " height="25"/>
