@@ -1,9 +1,5 @@
 <div align="center">
-  <h2>백엔드 개발자 이석현입니다.
-  <img src="https://raw.githubusercontent.com/NCSUAL/storage/main/ncsual_animate.svg"
-       width="550"
-       alt="Animated NCSUAL logo" />
-  </h2>
+  <h2>백엔드 개발자 이석현입니다.</h2>
   <h3>⭐ Main Stack ⭐</h3>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white " height="25"/>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" height="25"/>
