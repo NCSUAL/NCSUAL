@@ -10,7 +10,7 @@
 
 | 기간 | 회사/조직 | Tech Stack
 |:--:|:--|:--|
-| 2024.12 ~ 2026.6 | *** | Java, Spring, js, MySQL |
+| 2024 ~ 2026 | 국방부(sw) | Java, Spring, js, MySQL |
 
 <br>
 
