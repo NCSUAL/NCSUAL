@@ -3,7 +3,7 @@
   <h3>⏱️ Tech</h3>
   
   [![My Skills](https://skillicons.dev/icons?i=java,spring,js,mysql,postgres,docker)](https://skillicons.dev)<br>
-  [![My Skills](https://skillicons.dev/icons?i=go,kotlin,redis,kubernetes)](https://skillicons.dev)<br>
+  [![My Skills](https://skillicons.dev/icons?i=kotlin,redis,kubernetes)](https://skillicons.dev)<br>
 <br>
 
   <h3> 📝 Career </h3>
