@@ -1,5 +1,5 @@
 <div align="center">
-  <h2> 안녕하세요 백엔드 개발자 이석현입니다. </h2>
+  <h2> 안녕하세요 백엔드 개발자 이석현입니다 </h2>
   <h3>⏱️ Tech</h3>
   
   [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,postgres,docker)](https://skillicons.dev)<br>
